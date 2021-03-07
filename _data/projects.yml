@@ -3,18 +3,18 @@
 
 - project: Humanoid Legs
   role: Robot Designer & Circuit Designer & Developer
-  duration: 2021 &mdash; Ongoing
+  duration: 2021 ~ Ongoing
   # url: "#"
   description: This project has been started to make humanoid legs what working similarly to a human's.
 
 - project: This Web Page
   role: Developer
-  duration: 2021 &mdash; Ongoing
+  duration: 2021 ~ Ongoing
   url: "https://github.com/Hia-ru/Hia-ru.github.io"
   description: This project has been started to make my blog which introduce myself and my projects.
 
 - project: Robot Maker
   role: Robot Designer & Circuit Designer(Co-Work)
-  duration: 2020 &mdash; Done
+  duration: 2019 ~ 2020
   # url: "#"
   description: This project has been started to participate in the SeoulTech Robot Contest. We made a robot, but we failed the qualification.
