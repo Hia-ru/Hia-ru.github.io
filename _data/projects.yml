@@ -6,11 +6,11 @@
 #   url: "https://github.com/Hia-ru/Humanoid-Arms"
 #   description: This project has been started to make humanoid legs what working similarly to a human's.
 
-- project: Humanoid Legs
-  role: Robot Designer & Circuit Designer & etc
-  duration: 2021. 3. ~ Ongoing
-  url: "https://github.com/Hia-ru/Humanoid-Legs"
-  description: This project has been started to make humanoid legs what working similarly to a human's.
+# - project: Humanoid Legs
+#   role: Robot Designer & Circuit Designer & etc
+#   duration: 2021. 3. ~ Ongoing
+#   url: "https://github.com/Hia-ru/Humanoid-Legs"
+#   description: This project has been started to make humanoid legs what working similarly to a human's.
 
 - project: Custom Keyboard
   role: Circuit Designer
