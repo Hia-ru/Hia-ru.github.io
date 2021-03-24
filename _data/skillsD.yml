@@ -2,8 +2,11 @@
 - skill: Rust (preferred)
   description: Currently studying.
 
-- skill: C/C++
+- skill: C/C++ (preferred)
   description: The first language I learned. At now, I use it for learn about MCU programming like Arduino, stm32, etc.
+
+- skill: Python
+  description: A little bit. Currently studying.
 
 - skill: HTML, CSS, JS
   description: A little bit.
